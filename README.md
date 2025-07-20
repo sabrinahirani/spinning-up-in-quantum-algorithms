@@ -42,7 +42,7 @@ $$
 \ket{\psi_1} \otimes \ket{\psi_2} = \alpha_1 \alpha_2 \ket{00} + \alpha_1 \beta_2 \ket{01} + \beta_1 \alpha_2 \ket{10} + \beta_1 \beta_2 \ket{11}
 $$
 
-### Entanglement (Mathematically Demonstrated)
+### Entanglement
 
 Entanglement is a phenomenon where qubits in a composite system are correlated in such a way that the state of each qubit cannot be described independently. Consider two qubits in the Bell state:
 
